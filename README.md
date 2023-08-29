@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Leticia
 - 👀 Estou intessada em Tecnologia da Informação 
-- 🌱 Hoje em dia estou estudando HTML
+- 🌱 Hoje em dia estou estudando HTML CSS e JAVASCRIPT
 - 💞️ Estou á procura de aprender mais sobre tecnologia e programagação
 - 📫 Aqui está a minha rede social do Instagram: @leticiamaria.png
 
